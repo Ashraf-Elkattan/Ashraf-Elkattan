@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashraf-Elkattan
 - 👀 I’m interested in Data Sicence and AI
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Machine Learning
 
 
 <!---
